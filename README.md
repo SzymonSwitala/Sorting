@@ -1,6 +1,5 @@
 # Robot AI sorting blocks 
-<h1>3 types of sorting</h1>
-</br>
+<h2>3 types of sorting</h2>
 -Bubble Sort
 </br>
 -Shake Sort
