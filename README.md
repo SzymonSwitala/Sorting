@@ -7,5 +7,6 @@
 </br>
 -Insertion Sort
 <h3>2.Box quantity choices</h3>
+<h3>3.Sounds and Animations</h3>
 
 
